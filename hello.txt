@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar
-Hello team 1
+Hello team 1 new
